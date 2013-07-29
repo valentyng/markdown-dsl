@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "markdowndsl", "markdowndsl\markdowndsl.fsproj", "{723DF3B9-04E6-47FD-B5CA-E612BE693309}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MarkdownDocument", "MarkdownDocument\MarkdownDocument.fsproj", "{03022C6F-6DB0-4383-846A-9069476D5E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{723DF3B9-04E6-47FD-B5CA-E612BE693309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723DF3B9-04E6-47FD-B5CA-E612BE693309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723DF3B9-04E6-47FD-B5CA-E612BE693309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723DF3B9-04E6-47FD-B5CA-E612BE693309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03022C6F-6DB0-4383-846A-9069476D5E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03022C6F-6DB0-4383-846A-9069476D5E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03022C6F-6DB0-4383-846A-9069476D5E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03022C6F-6DB0-4383-846A-9069476D5E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
