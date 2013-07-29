@@ -13,7 +13,7 @@ and MarkdownSpans = list<MarkdownSpan>
 and MarkdownSpan = 
     | Literal of string
     | InlineCode of string
-    | String of MarkdownSpans
+    | Strong of MarkdownSpans
     | Emphasis of MarkdownSpans
     | HyperLink of MarkdownSpans * string
 

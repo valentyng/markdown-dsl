@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MarkdownDocument.fs" />
+    <Compile Include="RecursiveDescent.fs" />
     <None Include="Script.fsx" />
   </ItemGroup>
   <PropertyGroup>
